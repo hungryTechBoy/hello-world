@@ -11,4 +11,8 @@ fafafa
 fafafa
 
 增加一个branch
+<<<<<<< HEAD
+=======
+hahha
+>>>>>>> feature1
 feature
