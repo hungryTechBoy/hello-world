@@ -17,7 +17,11 @@ hahha
 >>>>>>> feature1
 feature
 
+<<<<<<< HEAD
 
 
 
 feature1
+=======
+feature2
+>>>>>>> feature2
